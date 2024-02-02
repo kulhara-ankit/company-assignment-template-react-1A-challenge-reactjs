@@ -1,3 +1,7 @@
+
+![image](https://github.com/kulhara-ankit/company-assignment-template-react-1A-challenge-reactjs/assets/146313680/82e1e230-8a04-4878-a9d9-a3d28a642aa2)
+
+
 Write the objective of the assignment yourself
 
 ### Refer to the image below:
